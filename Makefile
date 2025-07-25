@@ -203,6 +203,8 @@ logo:
 	 $(ESC)$(C_LOGO1)     \  \::/    $(ESC)$(C_LOGO2)    \  \::/    $(ESC)$(C_LOGO3)    \  \:\ $(ESC)$(C_LOGO2)    \  \::/    $(ESC)$(C_LOGO4)     /__/:/    $(ESC)$(C_LOGO5)    \  \::/    \n \
 	 $(ESC)$(C_LOGO1)      \__\/     $(ESC)$(C_LOGO2)     \__\/     $(ESC)$(C_LOGO3)     \__\/ $(ESC)$(C_LOGO2)     \__\/     $(ESC)$(C_LOGO4)     \__\/     $(ESC)$(C_LOGO5)     \__\/     \n \
 $(ESC)$(RST)\n"
+	@printf "\
+	                                                                       By: Miguel Azuaga\n"
 
 # **************************************************************************** #
 #                                   Phony Targets                              #
